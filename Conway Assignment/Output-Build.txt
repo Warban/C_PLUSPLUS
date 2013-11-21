@@ -1,0 +1,22 @@
+﻿1>------ Build started: Project: Asig2_part2, Configuration: Debug Win32 ------
+1>Build started 27/03/2013 10:49:14 AM.
+1>InitializeBuildStatus:
+1>  Creating "Debug\Asig2_part2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+1>ClCompile:
+1>  stdafx.cpp
+1>  Asig2_part2.cpp
+1>ManifestResourceCompile:
+1>  All outputs are up-to-date.
+1>Manifest:
+1>  All outputs are up-to-date.
+1>LinkEmbedManifest:
+1>  All outputs are up-to-date.
+1>  Asig2_part2.vcxproj -> E:\Google Drive\My Programming\Visual Studio Projects\Visual Studio 2010\Asig2_part2\Debug\Asig2_part2.exe
+1>FinalizeBuildStatus:
+1>  Deleting file "Debug\Asig2_part2.unsuccessfulbuild".
+1>  Touching "Debug\Asig2_part2.lastbuildstate".
+1>
+1>Build succeeded.
+1>
+1>Time Elapsed 00:00:00.68
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
